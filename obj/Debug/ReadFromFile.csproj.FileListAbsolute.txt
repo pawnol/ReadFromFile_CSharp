@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\bin\Debug\ReadFile.exe.config
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\bin\Debug\ReadFile.exe
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\bin\Debug\ReadFile.pdb
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\obj\Debug\ReadFromFile.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\obj\Debug\ReadFile.exe
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\obj\Debug\ReadFile.pdb
